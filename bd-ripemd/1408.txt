@@ -1,1 +1,1 @@
-O que � uma Carteira MultiSign ?
+Cofre( 10 cadeados ) basicamente uma wallet com multisign é a condição de necessitar de 5 a 10 chaves privadas para poder validar a chave publica deste endereço de BITCoin / DOGEcoin.
